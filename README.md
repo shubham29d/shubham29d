@@ -12,7 +12,6 @@ From Nashik, Maharashtra. I am a technology enthusiast, competent, well-focused 
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 </p>
      
@@ -24,7 +23,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 
-Here are some ideas to get you started:-->
+
 <hr/>
 🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
