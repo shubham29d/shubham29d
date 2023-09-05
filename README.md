@@ -1,6 +1,40 @@
-<img src="https://www.tristatetechnology.com/tristate-website/blog/wp-content/uploads/2021/06/NodeJS-Image.jpg" style="width:100%; height:500px;"></img>
-<h1 align="center">Hi 👋, I'm Shubham Deshmukh</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<!-- hello everyone 👋 i'm &#128512; shubham ... -->
+
+<h1 align="center">Hi , I'm Shubham Deshmukh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--<div align="center">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
+</div>-->
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <hr/>
+     <div style="display:flex">
+    <p align="left" style="max-width:40%">
+From Nashik, Maharashtra. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+
+I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
+
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+</p>
+     
+
+
+
+
+</div>
+
+
+
+Here are some ideas to get you started:-->
+<hr/>
+🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+
+✔️  I aspire to work as a programmer.
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+
+
+✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+<hr/>
 
 - 👨‍💻 All of my projects are available at [https://shubham29d.github.io/](https://shubham29d.github.io/)
 - https://shubham29d.github.io/
